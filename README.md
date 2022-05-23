@@ -25,6 +25,12 @@ your preferred browser.
 http://localhost:8000
 ```
 
+## Authentication
+
+You have to pass the an API key parameter within the header of the request:
+  - key: x-api-key
+  - value: BigProfiles-API
+
 ## Commands
 
 Add data to db:
