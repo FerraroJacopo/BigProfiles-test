@@ -43,3 +43,11 @@ Retrieve data from db:
 
 ```sh
 http://localhost:8000/retrieve?date_from=2022-05-23 10:10:00&date_to=2022-05-23 10:12:00
+
+## Stop
+
+```sh
+cd BigProfiles-test\bin
+.\stop.sh
+```
+
