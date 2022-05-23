@@ -9,13 +9,6 @@ cd BigProfiles-test\bin
 .\start.sh
 ```
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-http://localhost:8000
-```
-
 ## Authentication
 
 You have to pass an API key parameter within the header of the request:
