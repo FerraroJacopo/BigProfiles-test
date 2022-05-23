@@ -1,17 +1,17 @@
-## Installation
+# Installation
 
 Requires [Docker](https://www.docker.com/) to run.
 
 Clone the repository and start docker.
 
-# First way
+## First way
 
 ```sh
 cd BigProfiles-test\bin
 .\start.sh
 ```
 
-# Second way
+## Second way
 
 ```sh
 cd BigProfiles-test
@@ -25,7 +25,7 @@ your preferred browser.
 http://localhost:8000
 ```
 
-# Commands
+## Commands
 
 Add data to db:
 
