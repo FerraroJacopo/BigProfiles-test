@@ -4,18 +4,9 @@ Requires [Docker](https://www.docker.com/) to run.
 
 Clone the repository and start docker.
 
-## First way
-
 ```sh
 cd BigProfiles-test\bin
 .\start.sh
-```
-
-## Second way
-
-```sh
-cd BigProfiles-test
-docker-compose up
 ```
 
 Verify the deployment by navigating to your server address in
