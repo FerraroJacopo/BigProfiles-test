@@ -9,7 +9,6 @@ data_collection = database.get_collection("data_collection")
 # helpers
 def data_helper(data) -> dict:
     return {
-        "id": str(data["_id"]),
         "key": data["key"],
         "payload": data["payload"],
         "creation_datetime": data["creation_datetime"],
